@@ -1,0 +1,36 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+
+# Local SDK configuration
+local.properties
+
+# Build output
+build/
+*/build/
+
+# Kotlin
+.kotlin/
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / App Bundle
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Signing files
+*.jks
+*.keystore
